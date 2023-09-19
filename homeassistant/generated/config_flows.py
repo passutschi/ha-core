@@ -184,6 +184,7 @@ FLOWS = {
         "gpslogger",
         "gree",
         "growatt_server",
+        "gruenbeck",
         "guardian",
         "habitica",
         "harmony",
